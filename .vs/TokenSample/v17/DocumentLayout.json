@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\TokenSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|c:\\users\\hp\\source\\repos\\tokensample\\tokensample\\models\\lophocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|solutionrelative:tokensample\\models\\lophocmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|c:\\users\\hp\\source\\repos\\tokensample\\tokensample\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|solutionrelative:tokensample\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|c:\\users\\hp\\source\\repos\\tokensample\\tokensample\\data\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF76394-35F2-449E-8AF2-AC703263850A}|TokenSample\\TokenSample.csproj|solutionrelative:tokensample\\data\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocSinhController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Controllers\\HocSinhController.cs",
+              "RelativeDocumentMoniker": "TokenSample\\Controllers\\HocSinhController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Controllers\\HocSinhController.cs",
+              "RelativeToolTip": "TokenSample\\Controllers\\HocSinhController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:00:34.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LopHocModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Models\\LopHocModel.cs",
+              "RelativeDocumentMoniker": "TokenSample\\Models\\LopHocModel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Models\\LopHocModel.cs",
+              "RelativeToolTip": "TokenSample\\Models\\LopHocModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:45:05.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Data\\LopHoc.cs",
+              "RelativeDocumentMoniker": "TokenSample\\Data\\LopHoc.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\TokenSample\\TokenSample\\Data\\LopHoc.cs",
+              "RelativeToolTip": "TokenSample\\Data\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:44:49.977Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
