@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-using System;
 using TokenSample;
 
 public class Program
@@ -15,8 +14,4 @@ public class Program
             {
                 webBuilder.UseStartup<Startup>();
             });
-    private static object CreateHostBuilder(string[] args)
-    {
-        throw new NotImplementedException();
-    }
 }

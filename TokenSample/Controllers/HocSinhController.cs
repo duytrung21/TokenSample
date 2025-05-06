@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using TokenSample.Data;
 using TokenSample.Models;
@@ -9,13 +10,14 @@ namespace TokenSample.Controllers
     [ApiController]
     public class HocSinhController : ControllerBase
     {
-        public static List<HocSinh> hocSinhs = new List<HocSinh>();
+        public static List<HocSinh> hocSinhs = new();
         [HttpGet]
+        [Authorize] //controller can token moi cho phep truy cap du lieu
         public IActionResult GetAll()
         {
             return Ok(hocSinhs);
         }
-        [HttpPost]
+        [HttpPost] //controller khong can token cung co the truy cập dữ liệu
         public IActionResult CreateNew(HocSinhModel hsModel)
         {
             var hocsinh = new HocSinh 
